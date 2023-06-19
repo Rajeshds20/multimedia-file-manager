@@ -5,12 +5,9 @@ As we all know that the main purpose of File Manager application is to find and 
 
 ## Purpose of Adding Search, Filter, and Sort Features
 
-### Searching
-- **Purpose:** There wil be no file manager application without search feature. This is an essential feature that user expects from the application.
+### Searching and Filtering
+- **Purpose:** There wil be no file manager application without search feature. This is an essential feature that user expects from the application. The filtering feature enables users to filter down the displayed files based on their types/formats. (e.g., audio, video, document, image).
 - Users can avoid manually scanning through a long list of files by directly searching for the desired file.
-
-### Filtering
-- **Purpose:** The filtering feature enables users to filter down the displayed files based on their types/formats. (e.g., audio, video, document, image).
 - Simplified file management: Users can focus on specific types of files without distractions from other file types. Also allow users to go through each file types and all files of that type.
 
 ### Sorting
