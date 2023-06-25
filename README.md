@@ -45,26 +45,26 @@ This is a simple file explorer application built with React. It allows you to br
 
 ## Usage
 
-The main screen displays a list of files.
+- The main screen displays a list of files.
 
-Use the filter and search options to narrow down the list of files based on type and name.
+- Use the filter and search options to narrow down the list of files based on type and name.
 
-Click on a file to select it. Selected files are highlighted.
+- Click on a file to select it. Selected files are highlighted.
 
-Use the control buttons to perform actions on the selected file, such as renaming, deleting, and downloading.
+- Use the control buttons to perform actions on the selected file, such as renaming, deleting, and downloading.
 
-View file details and preview in the file viewer section.
+-  View file details and preview in the file viewer section.
 
-Click on the "Files Breakdown" button to open a modal with pie and bar charts showing the file breakdown by type.
+- Click on the "Files Breakdown" button to open a modal with pie and bar charts showing the file breakdown by type.
 
-Sort the files by name or type using the radio buttons in the "Sort By" section.
+- Sort the files by name or type using the radio buttons in the "Sort By" section.
 
 
 
 
 ## Technologies Used
 
-React
-Chart.js
-React Chart.js 2
+- React
+- Chart.js
+- React Chart.js 2
 
